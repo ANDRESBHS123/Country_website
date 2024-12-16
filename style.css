@@ -1,0 +1,194 @@
+.heading, p{
+	font-family:"Helvetica";
+}
+.heading{
+	text-align:center;
+	background-color:rgb(255, 99, 71);
+	color:white;
+	border-radius:10px;
+	padding:10px;
+}
+
+img{
+	display:flex;
+	float:right;
+}
+
+.city{
+	border-radius:10x;
+	padding
+}
+
+.divpage1{
+	background-color:green;
+	border-radius:10px;
+	padding:5px;
+}
+
+.link1{
+	text-align:center;
+}
+
+.link1:hover{
+	transition:0.3s;
+	color:green;
+}
+
+.aboutpage1{
+	background-color:green;
+}
+
+.Peruflag{
+	align-content:center;
+}
+.aboutpage1:hover{
+	color:white;
+	font-size:19px;
+	transition:1s;
+}
+
+.OverHere:hover{
+	color:yellow;
+    background-color:green;
+	border-radius:10pt;
+	box-shadow: 3px 3px white;
+	transition:0.3s;
+}
+
+*{
+	background-color:gray;
+}
+
+a{
+	background-color:white;
+}
+
+a:hover{
+	color:black;
+	transition:1s;
+	font-size:16px;
+}
+
+.Page2heading{
+	color:white;
+	text-align:center;
+	font-family:"Helvetica";
+	background-color:black;
+	border-radius:10px;
+	padding:10px
+}
+.homepagelink:hover{
+	transition:1s;
+	color:black;
+}
+
+.Limatitle{
+	font-family:"Helvetica";
+	color:white;
+	background-color:gray;
+}
+
+.limaimage{
+	float:center;
+}
+
+.Limatitle{
+	text-align:center;
+}
+.Limadescribe{
+	text-align:left;
+	background-color:black;
+	color:white;
+	padding:20px;
+	border-radius:10px;
+	padding:10px;
+	
+}
+
+.Foodtitle{
+	color:white;
+	text-align:left;
+	font-family:"Helvetica";
+}
+
+.Fooddescribe{
+	text-align:center;
+	color:white;
+}
+
+.Gallery{
+	background-color:rgb(192, 77, 55);
+	border-radius:10px;
+	padding:5px;
+}
+
+
+
+.Chicken{
+	text-align:center;
+	font-family:"Helvetica";
+	background-color:black;
+	color:white;
+	border-radius:10px;
+	padding:10px;
+}
+
+.festival{
+	text-align:center;
+	font-family:"Helvetica";
+	background-color:black;
+	color:white;
+	border-radius:10px;
+	padding:10px;
+}
+
+.Page3heading{
+	font-family:"Arial";
+	text-align:left;
+	background-color:rgb(0, 123, 102);
+	border-radius:10px;
+	padding:5px;
+}
+
+.History{
+	text-align:right;
+	background-color:black;
+	color:white;
+	border-radius:10px;
+	padding:15px;
+	box-shadow: 5px 5px red
+}
+
+.Historymap{
+	float:left;
+}
+
+.Known{
+	text-align:left;
+	background-color:red;
+	color:white;
+	border-radius:10px;
+	padding:15px;
+	box-shadow: 5px 5px white;
+}
+
+.p{
+	text-align:center;
+}
+
+.Landscape{
+	text-align:left;
+	background-color:black;
+	border-radius:10px;
+	padding:15px;
+}
+
+.Page3heading{
+	background-color:rgb(123, 111, 88);
+	border-radius:10px;
+	padding:15px;
+}
+
+
+
+
